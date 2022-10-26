@@ -30,6 +30,12 @@ demonstrates how you could set up those same tests using Storybook's `composeSto
 This example is quite simple, but can you imagine the possibilities with a larger component with more props? Stories and
 tests can now go hand in hand.
 
+To actually run these test, use the command
+
+```
+npm run test
+```
+
 ### 2. Interaction Testing With Stories
 
 Wouldn't it be nice to test interactions with your component and actually _see_ what's going on when something goes
