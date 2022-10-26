@@ -26,6 +26,12 @@
     align-self: center;
 }
 
+.form.signup input[type="checkbox"] {
+    align-self: flex-start;
+    margin-left: 0;
+    accent-color: hotpink;
+}
+
 .form.signup input,
 .form.signup button {
     margin-bottom: 1rem;
