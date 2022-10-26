@@ -1,0 +1,38 @@
+.form.signup {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 40ch;
+    max-width: 100vw;
+    color: white;
+    background: linear-gradient(to bottom right, #4A3F3A, #3A2F2A);
+    box-sizing: border-box;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 2.6px 2.7px 3.6px rgba(0, 0, 0, 0.024),
+    7.3px 7.5px 10px rgba(0, 0, 0, 0.035),
+    17.5px 18.1px 24.1px rgba(0, 0, 0, 0.046),
+    58px 60px 80px rgba(0, 0, 0, 0.07);
+
+}
+
+.form.signup label {
+    align-self: flex-start;
+    margin-bottom: 0.25rem;
+}
+
+.form.signup button[type="submit"] {
+    align-self: center;
+}
+
+.form.signup input,
+.form.signup button {
+    margin-bottom: 1rem;
+}
+
+.form.signup output {
+    color: aquamarine;
+    text-align: center;
+    align-self: center;
+}
