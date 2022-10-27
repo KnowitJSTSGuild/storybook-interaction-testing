@@ -70,3 +70,4 @@ able to actually **see what went wrong** instead of having to guess based on the
 
 - YouTube: [Norbert de Langen - Testing design systems using storybook + Storybook 7.0 sneak peeks (React Finland 2022)](https://www.youtube.com/watch?v=8ACxWOjrTfs)
 - Storybook docs: [Interaction Tests](https://storybook.js.org/docs/react/writing-tests/interaction-testing)
+- Presentation slides: See the `/docs` folder or run `npm run slides`.
